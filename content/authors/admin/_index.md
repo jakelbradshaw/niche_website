@@ -23,14 +23,14 @@ bio: My research interests include forest ecology, wildlife ecology, and landsca
 #- Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Natural Resources and Environmental Studies
-    institution: University of Northern British Columbia
-    year: In Progress
-  - course: BNRS (Honours)
-    institution: Thompson Rivers University
-    year: 2017
+#education:
+#  courses:
+#  - course: PhD in Natural Resources and Environmental Studies
+#    institution: University of Northern British Columbia
+#    year: In Progress
+#  - course: BNRS (Honours)
+#    institution: Thompson Rivers University
+#    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,15 +43,15 @@ education:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: graduation-cap  # Alternatively, use #`google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use #`google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=1c9J2T4AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jakelbradshaw/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
