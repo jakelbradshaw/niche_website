@@ -43,9 +43,9 @@ bio: My research interests include forest ecology, wildlife ecology, and landsca
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar  # Alternatively, use #`google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.ca/citations?user=1c9J2T4AAAAJ&hl=en
+#- icon: google-scholar  # Alternatively, use #`google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link: https://scholar.google.ca/citations?user=1c9J2T4AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
