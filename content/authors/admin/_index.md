@@ -68,5 +68,3 @@ highlight_name: true
 ---
 
 Our website is under development, stay tuned!
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
